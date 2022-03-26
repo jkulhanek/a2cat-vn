@@ -1,0 +1,4 @@
+dm-env==1.5
+https://data.ciirc.cvut.cz/public/projects/2019VisionBasedNavigation/resources/ai2thor-1.0.3-py2.py3-none-any.whl
+https://data.ciirc.cvut.cz/public/projects/2019VisionBasedNavigation/resources/deepmind_lab-1.0-py3-none-any.whl
+opencv-python>=4.5.5
