@@ -45,3 +45,7 @@ where `{trainer}` is the name of the experiment and can be one of the following:
 
 For `chouse*` experiments, you need to have House3D simulator installed and SUNCG dataset downloaded.
 We recommend using provided docker image.
+
+# Model checkpoints
+Model checkpoints are available online here:<br>
+[https://data.ciirc.cvut.cz/public/projects/2019VisionBasedNavigation/resources/model-checkpoints.tar.gz](https://data.ciirc.cvut.cz/public/projects/2019VisionBasedNavigation/resources/model-checkpoints.tar.gz)
